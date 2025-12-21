@@ -1,0 +1,106 @@
+/*colors*/
+.red{
+    background-color: #9B0D0C;
+}
+.yellow{
+    background-color: #FFB901;
+}
+
+
+.nav-wrapper{
+    background-color: #9B0D0C;
+}
+ .brand-logo{
+    padding-left: 2% !important;
+ }
+
+#top{   
+    margin: 2% 0;
+}
+
+#top a{   
+    color: grey;
+}
+
+.border_right{
+    border-right: 1px solid lightgray;
+}
+
+
+/**HOME*/
+.home_title{
+    margin: 10px 0;
+    font-weight:bold;
+    text-align: center;   
+}
+
+.course_block{
+    margin: 5px 0;
+    padding: 2%;
+    background: cadetblue;
+    color: white;
+    border-radius: 4px;
+}
+
+.course_block div{
+    margin: 2% 0;
+    text-align: center;
+}
+
+.stats_block{
+    margin: 5% 0;
+    padding: 2%;
+    background: darkslategrey;
+    color: white;
+    border-radius: 4px;
+}
+
+#dashboard_home p{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+}
+
+#dashboard_home .summary_stats, .topten_stats{
+    margin: 5px 0;
+    padding: 2%;
+    background: orange;
+    color: white;
+    border-radius: 4px;
+}
+
+#dashboard_home2 .summary_stats{
+    margin: 5% 0;
+    padding: 2%;
+    background: orange;
+    color: white;
+    border-radius: 4px;
+}
+
+.topten_stats{
+    overflow: auto;
+    height:500px;
+}
+
+.details_stats span{
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.details_course{
+    margin-bottom: 7%;
+}
+
+.list-link{
+    color: black;
+    font-weight: bolder;
+}
+
+#searchmember{
+    width:40%;
+    margin: 5% 0;
+}
+
+#searchmemberbutton{
+    padding: 9px 15px;
+}
